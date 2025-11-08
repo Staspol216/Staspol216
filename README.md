@@ -16,7 +16,7 @@
 
 <p>
 <img src="https://img.shields.io/badge/go-%2335495e?style=for-the-badge&logo=go&logoColor=%blue" alt="go">
-[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+<img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" alt="go">
 <img src="https://img.shields.io/badge/typescript-%23007acc?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
 <img src="https://img.shields.io/badge/javascript-%23f0db4f?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
 <img src="https://img.shields.io/badge/vue-%2335495e?style=for-the-badge&logo=vuedotjs&logoColor=%2341b883" alt="vue">
