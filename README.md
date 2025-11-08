@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/javascript-%23f0db4f?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
 <img src="https://img.shields.io/badge/vue-%2335495e?style=for-the-badge&logo=vuedotjs&logoColor=%2341b883" alt="vue">
 <img src="https://img.shields.io/badge/react-%2335495e?style=for-the-badge&logo=react&logoColor=%blue" alt="react">
-<img src="https://img.shields.io/badge/go-%2335495e?style=for-the-badge&logo=react&logoColor=%blue" alt="go">
+<img src="https://img.shields.io/badge/go-%2335495e?style=for-the-badge&logo=go&logoColor=%blue" alt="go">
 </p>
 
 ---
