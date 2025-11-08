@@ -1,9 +1,9 @@
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/stas-polishchuk-7b4712266/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/ReaNOD">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
 <h1 align="center">
@@ -11,16 +11,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-
-### Hard skills
-
 <p>
-<img src="https://img.shields.io/badge/go-%2335495e?style=for-the-badge&logo=go&logoColor=%blue" alt="go">
-<img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" alt="go">
-<img src="https://img.shields.io/badge/typescript-%23007acc?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
-<img src="https://img.shields.io/badge/javascript-%23f0db4f?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
-<img src="https://img.shields.io/badge/vue-%2335495e?style=for-the-badge&logo=vuedotjs&logoColor=%2341b883" alt="vue">
-<img src="https://img.shields.io/badge/react-%2335495e?style=for-the-badge&logo=react&logoColor=%blue" alt="react">
+<img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white" alt="go">
+<img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" alt="postgres">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="typescript">
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff" alt="Vue.js">
+<img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" alt="Node.js">
 </p>
 
 ---
